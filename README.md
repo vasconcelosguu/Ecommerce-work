@@ -200,7 +200,7 @@ HAVING p.stock < 10;
 | Nome | GitHub |
 |------|--------|
 | Felipe Piovesan | https://github.com/ffpiovesan |
-| Frederico Brumatti | https://github.com/FredBrumati |
+| Frederico Brumati | https://github.com/FredBrumati |
 | Gustavo Vasconcelos | https://github.com/vasconcelosguu |
 | Ruan Gimenes | https://github.com/Ruan-0101 |
 | Vitor Zuchierri | https://github.com/VitorZuchierri |
